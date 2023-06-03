@@ -1,0 +1,8 @@
+.block{
+    width: 30px;
+    height: 30px;
+}
+
+.row{
+    display: flex;
+}
